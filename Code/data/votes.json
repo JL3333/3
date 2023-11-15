@@ -1,0 +1,26 @@
+[
+  {
+    "index": "1",
+    "name": "Student union presedent selection",
+    "choices": {
+      "John Doe": 0,
+      "Tom Sivan": 1,
+      "Troye Sam": 1
+    },
+    "start_time": "2023-11-10 12:30:00",
+    "end_time": "2023-11-10 12:30:00"
+  },
+  {
+    "index": "2",
+    "name": "Are you done the homework?",
+    "choices": {
+      "Yes": 1,
+      "No": 3
+    },
+    "start_time": "2023-10-10 12:30:00",
+    "end_time": "2023-10-10 12:30:00"
+  },
+  {
+
+  }
+]
